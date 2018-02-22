@@ -15,6 +15,13 @@ h1 {
   max-width: 1024px;
 }
 
+#dDog img {
+  height: 200px;
+  height: 200px;
+  margin: 20px;
+  border: solid;
+}
+
 .btnG, .btnG-azul {
   border: 1px solid green;
   color: red;
